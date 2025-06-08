@@ -1,0 +1,16 @@
+{
+    "name": "mark/activity-1-php",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Mark\\Activity1Php\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "MarkGamboa",
+            "email": "202310110@fit.edu.ph"
+        }
+    ],
+    "require": {}
+}
