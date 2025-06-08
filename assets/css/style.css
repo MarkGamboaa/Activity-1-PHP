@@ -25,10 +25,11 @@ html {
   line-height: 1.6;
   scroll-behavior: smooth;
   background-color: var(--color-bg);
-  background-image: url("/assets/img/background.png"); /* Update path as needed */
-  background-size: cover; /* Cover the whole screen */
+  background-image: url("/assets/img/background.png");
   background-repeat: no-repeat;
   background-position: center center;
+  background-size: cover;
+  background-attachment: fixed;
 }
 
 .container {
