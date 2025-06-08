@@ -11,7 +11,7 @@
 <body>
   <header class="header" role="banner">
     <div class="container nav-container">
-      <a href="#home" class="logo" aria-label="AstroGrow homepage" id="home">
+      <a href="#home" class="logo" id="home">
         SolarSoil
       </a>
       <nav class="nav" id="nav-menu" aria-label="Primary Navigation">

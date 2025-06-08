@@ -2,9 +2,9 @@ body,
 html {
   background-image: url("/page/shop/assets/img/shopbackground.png");
   background-repeat: no-repeat;
-  background-position: center top;
+  background-position: center center;
+  background-size: cover;
   background-attachment: fixed;
-  background-size: auto;
 }
 
 /* Featured plants */
