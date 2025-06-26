@@ -11,7 +11,7 @@
 <body>
   <header class="header" role="banner">
     <div class="container nav-container">
-      <a href="#home" class="logo" id="home">
+      <a href="/index.html" class="logo" id="home">
         SolarSoil
       </a>
       <nav class="nav" id="nav-menu" aria-label="Primary Navigation">
